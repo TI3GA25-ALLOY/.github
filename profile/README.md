@@ -208,7 +208,7 @@ Demi menjaga ekosistem yang sehat dan suportif, semua anggota wajib mematuhi hal
 * ✅ Menghargai perbedaan pendapat dan tingkat kemampuan antar anggota.
 * ✅ Memberikan **credit** kepada kontributor asli tanpa terkecuali.
 * ✅ Melaporkan masalah melalui **issue**, bukan melalui jalur informal.
-* ❌ Dilarang melakukan plagiarisme — baik pada kode maupun dokumen akademik.
+* ❌ Dilarang melakukan plagiarisme (baik pada kode maupun dokumen akademik).
 * ❌ Dilarang menyebarkan konten yang menyinggung di dalam repositori manapun.
 
 ---
