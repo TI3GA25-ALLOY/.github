@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner / Foto Rombel -->
-<img src="https://github.com/ti3ga25-alloy/.github/blob/main/profile/assets/foto-rombel.jpg?raw=true" width="100%" alt="Rombel 3 Teknik Informatika UNNES 2025">
+<img src="https://github.com/ti3ga25-alloy/.github/blob/main/profile/assets/foto-rombel3.jpg?raw=true" width="100%" alt="Rombel 3 Teknik Informatika UNNES 2025">
 
 <br/>
 <br/>
