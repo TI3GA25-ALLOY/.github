@@ -1,46 +1,224 @@
 <div align="center">
 
-<!-- Foto Rombel / Banner -->
-<img src="https://github.com/NAMA_ORGS_KAMU/.github/blob/main/profile/assets/foto-rombel.jpg?raw=true" width="100%" alt="Rombel 3 Informatics UNNES 2025">
+<!-- Banner / Foto Rombel -->
+<img src="https://github.com/NAMA_ORGS_KAMU/.github/blob/main/profile/assets/foto-rombel.jpg?raw=true" width="100%" alt="Rombel 3 Teknik Informatika UNNES 2025">
 
-# 💻 Rombel 3 - Teknik Informatika UNNES 2025
-**"Connecting Codes, Building Culture, Growing Together."**
+<br/>
+<br/>
 
-[![Class-Status](https://img.shields.io/badge/Status-Active%20Learning-brightgreen?style=for-the-badge)](#)
-[![Tech-Focus](https://img.shields.io/badge/Focus-Peer--Learning-blue?style=for-the-badge)](#)
+# 💻 Rombel 3 — Teknik Informatika UNNES 2025
+
+### *"Connecting Codes, Building Culture, Growing Together."*
+
+<br/>
+
+[![Status](https://img.shields.io/badge/Status-Active%20Learning-brightgreen?style=for-the-badge&logo=statuspage&logoColor=white)](#)
+[![Angkatan](https://img.shields.io/badge/Angkatan-2025-0057A8?style=for-the-badge&logo=graduation-cap&logoColor=white)](#)
+[![Universitas](https://img.shields.io/badge/UNNES-Semarang-E63946?style=for-the-badge)](#)
+[![Focus](https://img.shields.io/badge/Focus-Peer--Learning%20%26%20Open%20Source-blueviolet?style=for-the-badge&logo=github&logoColor=white)](#)
 
 </div>
 
 ---
 
-### 🏛️ Tentang Kami
-Selamat datang di GitHub Organization resmi **Rombel 3 Teknik Informatika, Universitas Negeri Semarang (Angkatan 2025)**. Organisasi ini bukan sekadar tempat mengumpulkan tugas, melainkan ekosistem kolaborasi digital untuk mencetak talenta IT yang kompeten dan suportif.
+## 🏛️ Tentang Kami
 
-### 🚀 Misi Peer-Learning Kami
-Kami percaya bahwa belajar bersama jauh lebih efektif daripada belajar sendiri. Di sini, kami menerapkan:
-*   **Code Review Culture:** Saling memberikan feedback pada Pull Request untuk meningkatkan kualitas logika pemrograman.
-*   **Knowledge Sharing:** Dokumentasi kolektif untuk mata kuliah teknis dan akses sumber daya akademik.
-*   **Standardized Workflow:** Menggunakan standar industri dalam manajemen repositori agar siap menghadapi dunia kerja.
+Selamat datang di **GitHub Organization resmi Rombel 3, Program Studi Teknik Informatika, Universitas Negeri Semarang — Angkatan 2025**.
 
-### 📚 Resource & Akses Cepat
-Untuk menunjang produktivitas akademik teman-teman Rombel 3:
-*   **[Portal Turnitin Gratis (UNNES)](https://perpus.unnes.ac.id/):** Manfaatkan akses resmi dari UPT Perpustakaan untuk cek orisinalitas jurnal/KTI.
-*   **[Dokumentasi Kelas]:** Link ke Notion/Wiki berisi ringkasan materi kuliah.
-*   **[Panduan Penulisan STEM]:** Gunakan template LaTeX yang tersedia di repositori `akademik-resources`.
+Organisasi ini adalah ekosistem kolaborasi digital yang kami bangun bersama sejak semester pertama. Lebih dari sekadar tempat mengumpulkan tugas, ini adalah ruang dokumentasi perjalanan akademik kami dari **Semester 1 hingga Semester 8** — dari baris kode pertama di C++ sampai membangun aplikasi full-stack yang siap produksi.
 
-### 🛠️ Tech Stack yang Dipelajari
-<p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web_Development-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Algorithm-FFD43B?style=flat-square&logo=python&logoColor=darkblue" />
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" />
+> *Kami percaya bahwa kode yang baik lahir dari kolaborasi yang jujur, review yang konstruktif, dan semangat berbagi yang tidak pernah padam.*
+
+---
+
+## 🎯 Misi & Visi
+
+**🔭 Visi:**
+Menjadi komunitas belajar berbasis teknologi yang produktif, inklusif, dan berorientasi pada kualitas — mempersiapkan setiap anggota untuk berkontribusi nyata di industri maupun riset.
+
+**🚀 Misi:**
+- Mendokumentasikan seluruh perjalanan akademik (Semester 1–8) secara terstruktur dan terbuka.
+- Membangun budaya *code review*, kolaborasi, dan *knowledge sharing* yang konsisten.
+- Menjadi jembatan antara teori perkuliahan dan praktik industri nyata.
+- Menghasilkan proyek-proyek inisiatif yang berdampak, tidak hanya untuk nilai.
+
+---
+
+## 🗺️ Roadmap Perjalanan Akademik (Sem 1–8)
+
+Setiap semester memiliki fokus teknologi dan proyek yang berbeda. Berikut adalah peta besar perjalanan kami:
+
+| Semester | Fokus Utama | Teknologi Kunci |
+|----------|-------------|-----------------|
+| **Sem 1** | Dasar Pemrograman & Logika | `C++`, `Python`, `Algoritma & Struktur Data` |
+| **Sem 2** | Web Fundamentals & OOP | `HTML/CSS`, `JavaScript`, `Java`, `PHP` |
+| **Sem 3** | Backend & Database | `Node.js`, `Express.js`, `MySQL`, `PostgreSQL` |
+| **Sem 4** | Frontend Modern & API | `React`, `TypeScript`, `Vite`, `REST API` |
+| **Sem 5** | Full-Stack & Mobile | `Next.js`, `Laravel`, `Kotlin`, `Swift` |
+| **Sem 6** | Data & Cloud | `Python`, `R`, `MongoDB`, `Prisma`, `Docker` |
+| **Sem 7** | Advanced Topics & Riset | `Rust`, `Machine Learning`, `Microservices` |
+| **Sem 8** | Capstone & Tugas Akhir | *Teknologi sesuai topik skripsi / proyek akhir* |
+
+---
+
+## 🛠️ Tech Stack yang Dipelajari
+
+### 🌐 Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+</p>
+
+### ⚙️ Backend & Runtime
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+</p>
+
+### 🗄️ Database & ORM
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+</p>
+
+### 📱 Mobile & Bahasa Umum
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
+</p>
+
+### 🔧 Tools & Lainnya
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 </p>
 
 ---
 
-### 🤝 Kontribusi
-Punya *tools* keren atau catatan ringkas yang bermanfaat? Jangan ragu buat repositori baru atau ajukan PR ke repositori dokumentasi. *No contribution is too small!*
+## 📂 Struktur Repositori
+
+Repositori dalam organisasi ini dikelola dengan konvensi penamaan yang konsisten agar mudah dinavigasi:
+
+```
+📦 TI3GA25-ALLOY/
+├── 📁 sem1-[nama-matkul]        → Repositori tugas & proyek Semester 1
+├── 📁 sem2-[nama-matkul]        → Repositori tugas & proyek Semester 2
+├── ...
+├── 📁 proyek-inisiatif-[nama]   → Proyek mandiri / non-akademik
+├── 📁 akademik-resources        → Template, catatan, dan materi bersama
+└── 📁 .github                   → Profile org, issue templates, workflows
+```
+
+**Konvensi Branch:**
+- `main` → kode stabil / final
+- `dev` → pengembangan aktif
+- `feat/nama-fitur` → branch untuk fitur baru
+- `fix/nama-bug` → branch perbaikan
+
+---
+
+## 🤝 Cara Berkontribusi
+
+Organisasi ini milik kita bersama. Berikut cara untuk ikut berkontribusi:
+
+1. **Fork** repositori yang ingin kamu tambahkan.
+2. Buat **branch** baru: `git checkout -b feat/nama-kontribusimu`
+3. Commit perubahanmu: `git commit -m "feat: deskripsi singkat"`
+4. **Push** ke branch: `git push origin feat/nama-kontribusimu`
+5. Buka **Pull Request** dan minta review dari minimal 1 anggota lain.
+
+> 💡 *No contribution is too small!* Memperbaiki typo di dokumentasi pun sangat berarti.
+
+### 📋 Panduan Pull Request
+- Sertakan deskripsi jelas tentang **apa** yang diubah dan **mengapa**.
+- Tambahkan screenshot / demo jika perlu.
+- Pastikan tidak ada konflik dengan branch `main`.
+- PR akan di-*review* dan di-*merge* oleh Komting / PJ repositori.
+
+---
+
+## 🌟 Budaya Kolaborasi Kami
+
+| Nilai | Penerapan |
+|-------|-----------|
+| 🔍 **Code Review Culture** | Setiap PR wajib mendapat minimal 1 review dari rekan sebelum di-merge |
+| 📖 **Knowledge Sharing** | Catatan kuliah, cheatsheet, dan dokumentasi dibagikan secara kolektif |
+| 🏗️ **Standardized Workflow** | Konvensi commit, branch, dan folder mengikuti standar industri |
+| 🧪 **Learn by Doing** | Proyek nyata lebih diprioritaskan daripada latihan teoritis semata |
+| 🆘 **No One Left Behind** | Anggota yang kesulitan didorong untuk bertanya — bukan dihakimi |
+
+---
+
+## 📚 Resource & Akses Cepat
+
+Penunjang produktivitas akademik Rombel 3:
+
+- 📄 **[Portal Turnitin Resmi UNNES](https://perpus.unnes.ac.id/)** — Cek orisinalitas karya tulis via UPT Perpustakaan
+- 📝 **[Dokumentasi Kelas]** — *(Ganti dengan link Notion/Wiki kalian)* — Ringkasan materi & jadwal
+- 📐 **[Template LaTeX UNNES]** — Tersedia di repositori `akademik-resources`
+- 💬 **[Grup Diskusi]** — *(Ganti dengan link Discord/WhatsApp Group)*
+- 📅 **[Kalender Akademik UNNES](https://akademik.unnes.ac.id/)** — Jadwal resmi perkuliahan
+
+---
+
+## 👥 Pengelola Organisasi
+
+Organisasi ini dikelola secara kolektif oleh:
+
+| Peran | Tanggung Jawab |
+|-------|----------------|
+| **Komting (Ketua Tingkat)** | Koordinasi umum |
+
+
+> Ingin bergabung sebagai maintainer? Hubungi Komting atau buka issue dengan label `role-request`.
+
+---
+
+## 📜 Code of Conduct
+
+Demi menjaga ekosistem yang sehat dan suportif, semua anggota wajib:
+
+- ✅ Berkomunikasi dengan **sopan dan konstruktif**.
+- ✅ Menghargai perbedaan pendapat dan tingkat kemampuan.
+- ✅ Memberikan **credit** kepada kontributor asli.
+- ✅ Melaporkan masalah melalui **issue**, bukan melalui gosip.
+- ❌ Dilarang plagiarisme — baik kode maupun dokumen akademik.
+- ❌ Dilarang menyebarkan konten menyinggung di dalam repositori manapun.
+
+---
 
 <div align="center">
-  <p>Dikelola dengan ☕ dan Semangat oleh <strong>Kamtib & Komting Rombel 3</strong></p>
+
+<br/>
+
+*Dikelola dengan* ☕ *dan semangat oleh* **Komting Rombel 3**
+
+<br/>
+
+**Teknik Informatika · Universitas Negeri Semarang · Angkatan 2025**
+
+<br/>
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ti3ga25-alloy.ti3ga25-alloy)
+
 </div>
