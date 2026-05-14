@@ -49,10 +49,10 @@ Menjadi komunitas belajar berbasis teknologi yang produktif, inklusif, dan beror
 
 Roadmap ini kami perbarui setiap semester seiring berjalannya perkuliahan. Semester yang sudah kami jalani memiliki isian teknologi yang nyata, sementara semester berikutnya akan terus diisi seiring waktu.
 
-| Semester | Status | Fokus Utama | Teknologi Kunci |
+| Semester | Status | Fokus Utama | Bahasa Pemorgraman |
 |----------|--------|-------------|-----------------|
-| **Sem 1** | ✅ Selesai | Dasar Pemrograman & Logika | `C++` `Python` `Algoritma` `Struktur Data` |
-| **Sem 2** | 🟡 Sedang Berjalan | Web Fundamentals & OOP | `HTML` `CSS` `JavaScript` `Java` `PHP` |
+| **Sem 1** | ✅ Selesai | Dasar Pemrograman & Logika | `C++` |
+| **Sem 2** | 🟡 Sedang Berjalan | Web Fundamentals & OOP | `C++` |
 | **Sem 3** | 🔜 Belum Dimulai | *Akan diperbarui* | *TBD* |
 | **Sem 4** | 🔜 Belum Dimulai | *Akan diperbarui* | *TBD* |
 | **Sem 5** | 🔜 Belum Dimulai | *Akan diperbarui* | *TBD* |
