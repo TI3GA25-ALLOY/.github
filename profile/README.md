@@ -217,7 +217,7 @@ Demi menjaga ekosistem yang sehat dan suportif, semua anggota wajib mematuhi hal
 
 <br/>
 
-*Dikelola dengan* ☕ *dan semangat oleh* **Komting Rombel 3**
+*Dikelola dengan oleh* **Komting Rombel 3**
 
 <br/>
 
