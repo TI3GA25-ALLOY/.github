@@ -183,23 +183,20 @@ Organisasi ini milik kita semua. Berikut langkah untuk ikut berkontribusi:
 Penunjang produktivitas akademik Rombel 3:
 
 * 📄 **[Portal Turnitin Resmi UNNES](https://perpus.unnes.ac.id/)**: Cek orisinalitas karya tulis via UPT Perpustakaan UNNES
-* 📝 **[Dokumentasi Kelas]** — *(Ganti dengan link Notion atau Wiki kalian)*: Ringkasan materi dan jadwal
+* 📝 **[Dokumentasi Kelas]**: Ringkasan materi dan jadwal
 * 📐 **[Template LaTeX UNNES]**: Tersedia di repositori `....`
-* 💬 **[Grup Diskusi]** — *https://chat.whatsapp.com/FwFfzcMZZZo3hPe5FyJMTQ?mode=ac_t*
+* 💬 **[Grup Diskusi]**: *https://chat.whatsapp.com/FwFfzcMZZZo3hPe5FyJMTQ?mode=ac_t*
 * 📅 **[Kalender Akademik UNNES](https://akademik.unnes.ac.id/)**: Jadwal resmi perkuliahan
 
 ---
 
-## 👥 Pengelola Organisasi
+## 👥 Pengelola TI3GA-ALLOY
 
-Organisasi ini dikelola secara kolektif oleh pengurus yang dipilih dari anggota Rombel 3.
+TI3GA-ALLOY ini dikelola secara kolektif oleh pengurus dari Rombel 3.
 
 | Peran | Tanggung Jawab |
 |-------|----------------|
 | **Komting (Ketua Tingkat)** | Koordinasi umum |
-
-
-> Ingin bergabung sebagai maintainer? Hubungi Komting atau buka issue dengan label `role-request`.
 
 ---
 
