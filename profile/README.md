@@ -25,7 +25,7 @@
 
 Selamat datang di **GitHub Organization resmi Rombel 3, Program Studi Teknik Informatika, Universitas Negeri Semarang, Angkatan 2025**.
 
-Organisasi ini adalah ekosistem kolaborasi digital yang kami bangun bersama sejak semester pertama. Lebih dari sekadar tempat mengumpulkan tugas, ini adalah ruang dokumentasi perjalanan akademik kami dari **Semester 1 hingga Semester 8** — dari baris kode pertama di C++ sampai membangun aplikasi fullstack yang siap produksi.
+Organisasi ini adalah ekosistem kolaborasi digital yang kami bangun bersama sejak semester pertama. Lebih dari sekadar tempat mengumpulkan tugas, ini adalah ruang dokumentasi perjalanan akademik kami dari **Semester 1 hingga Semester 8** yang dari baris kode pertama di C++ sampai membangun aplikasi fullstack yang siap produksi (Amiin).
 
 > *Kami percaya bahwa kode yang baik lahir dari kolaborasi yang jujur, review yang konstruktif, dan semangat berbagi yang tidak pernah padam.*
 
@@ -34,7 +34,7 @@ Organisasi ini adalah ekosistem kolaborasi digital yang kami bangun bersama seja
 ## 🎯 Misi & Visi
 
 **🔭 Visi:**
-Menjadi komunitas belajar berbasis teknologi yang produktif, inklusif, dan berorientasi pada kualitas — mempersiapkan setiap anggota untuk berkontribusi nyata di industri maupun riset.
+Menjadi komunitas belajar berbasis teknologi yang produktif, inklusif, dan berorientasi pada kualitas, sekaligus mempersiapkan setiap anggota untuk berkontribusi nyata di industri teknologi maupun riset.
 
 **🚀 Misi:**
 
@@ -170,11 +170,11 @@ Organisasi ini milik kita semua. Berikut langkah untuk ikut berkontribusi:
 
 | Nilai | Penerapan |
 |-------|-----------|
-| 🔍 **Code Review Culture** | Setiap PR wajib mendapat minimal 1 review dari rekan sebelum dimerge |
+| 🔍 **Code Review Culture** | Setiap PR kalau bisa ada 1 review dari rekan sebelum dimerge biar meminimalisir kesalahan |
 | 📖 **Knowledge Sharing** | Catatan kuliah, cheatsheet, dan dokumentasi dibagikan secara kolektif |
-| 🏗️ **Standardized Workflow** | Konvensi commit, branch, dan folder mengikuti standar industri |
+| 🏗️ **Standardized Workflow** | Konvensi commit, branch, dan folder mengikuti standar |
 | 🧪 **Learn by Doing** | Proyek nyata lebih diprioritaskan daripada latihan teoritis semata |
-| 🆘 **No One Left Behind** | Anggota yang kesulitan didorong untuk bertanya, bukan dihakimi |
+| 🆘 **No One Left Behind** | Anggota yang kesulitan silahkan untuk bertanya, kita semua sama-sama belajar di sini |
 
 ---
 
@@ -182,11 +182,11 @@ Organisasi ini milik kita semua. Berikut langkah untuk ikut berkontribusi:
 
 Penunjang produktivitas akademik Rombel 3:
 
-* 📄 **[Portal Turnitin Resmi UNNES](https://perpus.unnes.ac.id/)** — Cek orisinalitas karya tulis via UPT Perpustakaan UNNES
-* 📝 **[Dokumentasi Kelas]** — *(Ganti dengan link Notion atau Wiki kalian)* — Ringkasan materi dan jadwal
-* 📐 **[Template LaTeX UNNES]** — Tersedia di repositori `akademik-resources`
-* 💬 **[Grup Diskusi]** — *(Ganti dengan link Discord atau WhatsApp Group)*
-* 📅 **[Kalender Akademik UNNES](https://akademik.unnes.ac.id/)** — Jadwal resmi perkuliahan
+* 📄 **[Portal Turnitin Resmi UNNES](https://perpus.unnes.ac.id/)**: Cek orisinalitas karya tulis via UPT Perpustakaan UNNES
+* 📝 **[Dokumentasi Kelas]** — *(Ganti dengan link Notion atau Wiki kalian)*: Ringkasan materi dan jadwal
+* 📐 **[Template LaTeX UNNES]**: Tersedia di repositori `....`
+* 💬 **[Grup Diskusi]** — *https://chat.whatsapp.com/FwFfzcMZZZo3hPe5FyJMTQ?mode=ac_t*
+* 📅 **[Kalender Akademik UNNES](https://akademik.unnes.ac.id/)**: Jadwal resmi perkuliahan
 
 ---
 
