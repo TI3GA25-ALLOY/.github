@@ -196,7 +196,7 @@ TI3GA-ALLOY ini dikelola secara kolektif oleh pengurus dari Rombel 3.
 
 | Peran | Tanggung Jawab |
 |-------|----------------|
-| **Komting (Ketua Tingkat)** | Koordinasi umum |
+| **Komting (Komandan Tingkat)** | Koordinasi umum |
 
 ---
 
