@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner / Foto Rombel -->
-<img src="https://github.com/NAMA_ORGS_KAMU/.github/blob/main/profile/assets/foto-rombel.jpg?raw=true" width="100%" alt="Rombel 3 Teknik Informatika UNNES 2025">
+<img src="https://github.com/ti3ga25-alloy/.github/blob/main/profile/assets/foto-rombel.jpg?raw=true" width="100%" alt="Rombel 3 Teknik Informatika UNNES 2025">
 
 <br/>
 <br/>
@@ -15,7 +15,7 @@
 [![Status](https://img.shields.io/badge/Status-Active%20Learning-brightgreen?style=for-the-badge&logo=statuspage&logoColor=white)](#)
 [![Angkatan](https://img.shields.io/badge/Angkatan-2025-0057A8?style=for-the-badge&logo=graduation-cap&logoColor=white)](#)
 [![Universitas](https://img.shields.io/badge/UNNES-Semarang-E63946?style=for-the-badge)](#)
-[![Focus](https://img.shields.io/badge/Focus-Peer--Learning%20%26%20Open%20Source-blueviolet?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Focus](https://img.shields.io/badge/Focus-Peer%20Learning%20%26%20Open%20Source-blueviolet?style=for-the-badge&logo=github&logoColor=white)](#)
 
 </div>
 
@@ -25,7 +25,7 @@
 
 Selamat datang di **GitHub Organization resmi Rombel 3, Program Studi Teknik Informatika, Universitas Negeri Semarang — Angkatan 2025**.
 
-Organisasi ini adalah ekosistem kolaborasi digital yang kami bangun bersama sejak semester pertama. Lebih dari sekadar tempat mengumpulkan tugas, ini adalah ruang dokumentasi perjalanan akademik kami dari **Semester 1 hingga Semester 8** — dari baris kode pertama di C++ sampai membangun aplikasi full-stack yang siap produksi.
+Organisasi ini adalah ekosistem kolaborasi digital yang kami bangun bersama sejak semester pertama. Lebih dari sekadar tempat mengumpulkan tugas, ini adalah ruang dokumentasi perjalanan akademik kami dari **Semester 1 hingga Semester 8** — dari baris kode pertama di C++ sampai membangun aplikasi fullstack yang siap produksi.
 
 > *Kami percaya bahwa kode yang baik lahir dari kolaborasi yang jujur, review yang konstruktif, dan semangat berbagi yang tidak pernah padam.*
 
@@ -37,31 +37,36 @@ Organisasi ini adalah ekosistem kolaborasi digital yang kami bangun bersama seja
 Menjadi komunitas belajar berbasis teknologi yang produktif, inklusif, dan berorientasi pada kualitas — mempersiapkan setiap anggota untuk berkontribusi nyata di industri maupun riset.
 
 **🚀 Misi:**
-- Mendokumentasikan seluruh perjalanan akademik (Semester 1–8) secara terstruktur dan terbuka.
-- Membangun budaya *code review*, kolaborasi, dan *knowledge sharing* yang konsisten.
-- Menjadi jembatan antara teori perkuliahan dan praktik industri nyata.
-- Menghasilkan proyek-proyek inisiatif yang berdampak, tidak hanya untuk nilai.
+
+* Mendokumentasikan seluruh perjalanan akademik (Semester 1 hingga 8) secara terstruktur dan terbuka.
+* Membangun budaya *code review*, kolaborasi, dan *knowledge sharing* yang konsisten.
+* Menjadi jembatan antara teori perkuliahan dan praktik industri nyata.
+* Menghasilkan proyek inisiatif yang berdampak, tidak hanya untuk nilai semata.
 
 ---
 
 ## 🗺️ Roadmap Perjalanan Akademik (Sem 1–8)
 
-Setiap semester memiliki fokus teknologi dan proyek yang berbeda. Berikut adalah peta besar perjalanan kami:
+Roadmap ini kami perbarui setiap semester seiring berjalannya perkuliahan. Semester yang sudah kami jalani memiliki isian teknologi yang nyata, sementara semester berikutnya akan terus diisi seiring waktu.
 
-| Semester | Fokus Utama | Teknologi Kunci |
-|----------|-------------|-----------------|
-| **Sem 1** | Dasar Pemrograman & Logika | `C++`, `Python`, `Algoritma & Struktur Data` |
-| **Sem 2** | Web Fundamentals & OOP | `HTML/CSS`, `JavaScript`, `Java`, `PHP` |
-| **Sem 3** | Backend & Database | `Node.js`, `Express.js`, `MySQL`, `PostgreSQL` |
-| **Sem 4** | Frontend Modern & API | `React`, `TypeScript`, `Vite`, `REST API` |
-| **Sem 5** | Full-Stack & Mobile | `Next.js`, `Laravel`, `Kotlin`, `Swift` |
-| **Sem 6** | Data & Cloud | `Python`, `R`, `MongoDB`, `Prisma`, `Docker` |
-| **Sem 7** | Advanced Topics & Riset | `Rust`, `Machine Learning`, `Microservices` |
-| **Sem 8** | Capstone & Tugas Akhir | *Teknologi sesuai topik skripsi / proyek akhir* |
+| Semester | Status | Fokus Utama | Teknologi Kunci |
+|----------|--------|-------------|-----------------|
+| **Sem 1** | ✅ Selesai | Dasar Pemrograman & Logika | `C++` `Python` `Algoritma` `Struktur Data` |
+| **Sem 2** | 🟡 Sedang Berjalan | Web Fundamentals & OOP | `HTML` `CSS` `JavaScript` `Java` `PHP` |
+| **Sem 3** | 🔜 Belum Dimulai | *Akan diperbarui* | *TBD* |
+| **Sem 4** | 🔜 Belum Dimulai | *Akan diperbarui* | *TBD* |
+| **Sem 5** | 🔜 Belum Dimulai | *Akan diperbarui* | *TBD* |
+| **Sem 6** | 🔜 Belum Dimulai | *Akan diperbarui* | *TBD* |
+| **Sem 7** | 🔜 Belum Dimulai | *Akan diperbarui* | *TBD* |
+| **Sem 8** | 🔜 Belum Dimulai | Capstone & Tugas Akhir | *Menyesuaikan topik skripsi* |
+
+> 📌 *Kolom TBD akan diperbarui oleh Komting atau PJ Dokumentasi di awal setiap semester baru.*
 
 ---
 
 ## 🛠️ Tech Stack yang Dipelajari
+
+Berikut adalah kumpulan teknologi yang sudah dan sedang kami pelajari sepanjang perkuliahan.
 
 ### 🌐 Frontend
 <p>
@@ -117,29 +122,32 @@ Setiap semester memiliki fokus teknologi dan proyek yang berbeda. Berikut adalah
 
 ## 📂 Struktur Repositori
 
-Repositori dalam organisasi ini dikelola dengan konvensi penamaan yang konsisten agar mudah dinavigasi:
+Repositori dalam organisasi ini dikelola dengan konvensi penamaan yang konsisten agar mudah dinavigasi oleh seluruh anggota.
 
 ```
 📦 TI3GA25-ALLOY/
-├── 📁 sem1-[nama-matkul]        → Repositori tugas & proyek Semester 1
-├── 📁 sem2-[nama-matkul]        → Repositori tugas & proyek Semester 2
+├── 📁 sem1-[nama-matkul]        → Repositori tugas dan proyek Semester 1
+├── 📁 sem2-[nama-matkul]        → Repositori tugas dan proyek Semester 2
 ├── ...
-├── 📁 proyek-inisiatif-[nama]   → Proyek mandiri / non-akademik
+├── 📁 proyek-inisiatif-[nama]   → Proyek mandiri atau non-akademik
 ├── 📁 akademik-resources        → Template, catatan, dan materi bersama
 └── 📁 .github                   → Profile org, issue templates, workflows
 ```
 
-**Konvensi Branch:**
-- `main` → kode stabil / final
-- `dev` → pengembangan aktif
-- `feat/nama-fitur` → branch untuk fitur baru
-- `fix/nama-bug` → branch perbaikan
+**Konvensi Branch yang Digunakan:**
+
+| Branch | Fungsi |
+|--------|--------|
+| `main` | Kode stabil dan sudah final |
+| `dev` | Pengembangan aktif |
+| `feat/nama-fitur` | Penambahan fitur baru |
+| `fix/nama-bug` | Perbaikan bug |
 
 ---
 
 ## 🤝 Cara Berkontribusi
 
-Organisasi ini milik kita bersama. Berikut cara untuk ikut berkontribusi:
+Organisasi ini milik kita semua. Berikut langkah untuk ikut berkontribusi:
 
 1. **Fork** repositori yang ingin kamu tambahkan.
 2. Buat **branch** baru: `git checkout -b feat/nama-kontribusimu`
@@ -147,13 +155,14 @@ Organisasi ini milik kita bersama. Berikut cara untuk ikut berkontribusi:
 4. **Push** ke branch: `git push origin feat/nama-kontribusimu`
 5. Buka **Pull Request** dan minta review dari minimal 1 anggota lain.
 
-> 💡 *No contribution is too small!* Memperbaiki typo di dokumentasi pun sangat berarti.
+> 💡 *No contribution is too small!* Memperbaiki typo di dokumentasi pun sangat berarti bagi kami.
 
 ### 📋 Panduan Pull Request
-- Sertakan deskripsi jelas tentang **apa** yang diubah dan **mengapa**.
-- Tambahkan screenshot / demo jika perlu.
-- Pastikan tidak ada konflik dengan branch `main`.
-- PR akan di-*review* dan di-*merge* oleh Komting / PJ repositori.
+
+* Sertakan deskripsi jelas tentang **apa** yang diubah dan **mengapa**.
+* Tambahkan screenshot atau demo jika memungkinkan.
+* Pastikan tidak ada konflik dengan branch `main`.
+* PR akan direview dan dimerge oleh Komting atau PJ repositori yang bersangkutan.
 
 ---
 
@@ -161,11 +170,11 @@ Organisasi ini milik kita bersama. Berikut cara untuk ikut berkontribusi:
 
 | Nilai | Penerapan |
 |-------|-----------|
-| 🔍 **Code Review Culture** | Setiap PR wajib mendapat minimal 1 review dari rekan sebelum di-merge |
+| 🔍 **Code Review Culture** | Setiap PR wajib mendapat minimal 1 review dari rekan sebelum dimerge |
 | 📖 **Knowledge Sharing** | Catatan kuliah, cheatsheet, dan dokumentasi dibagikan secara kolektif |
 | 🏗️ **Standardized Workflow** | Konvensi commit, branch, dan folder mengikuti standar industri |
 | 🧪 **Learn by Doing** | Proyek nyata lebih diprioritaskan daripada latihan teoritis semata |
-| 🆘 **No One Left Behind** | Anggota yang kesulitan didorong untuk bertanya — bukan dihakimi |
+| 🆘 **No One Left Behind** | Anggota yang kesulitan didorong untuk bertanya, bukan dihakimi |
 
 ---
 
@@ -173,17 +182,17 @@ Organisasi ini milik kita bersama. Berikut cara untuk ikut berkontribusi:
 
 Penunjang produktivitas akademik Rombel 3:
 
-- 📄 **[Portal Turnitin Resmi UNNES](https://perpus.unnes.ac.id/)** — Cek orisinalitas karya tulis via UPT Perpustakaan
-- 📝 **[Dokumentasi Kelas]** — *(Ganti dengan link Notion/Wiki kalian)* — Ringkasan materi & jadwal
-- 📐 **[Template LaTeX UNNES]** — Tersedia di repositori `akademik-resources`
-- 💬 **[Grup Diskusi]** — *(Ganti dengan link Discord/WhatsApp Group)*
-- 📅 **[Kalender Akademik UNNES](https://akademik.unnes.ac.id/)** — Jadwal resmi perkuliahan
+* 📄 **[Portal Turnitin Resmi UNNES](https://perpus.unnes.ac.id/)** — Cek orisinalitas karya tulis via UPT Perpustakaan UNNES
+* 📝 **[Dokumentasi Kelas]** — *(Ganti dengan link Notion atau Wiki kalian)* — Ringkasan materi dan jadwal
+* 📐 **[Template LaTeX UNNES]** — Tersedia di repositori `akademik-resources`
+* 💬 **[Grup Diskusi]** — *(Ganti dengan link Discord atau WhatsApp Group)*
+* 📅 **[Kalender Akademik UNNES](https://akademik.unnes.ac.id/)** — Jadwal resmi perkuliahan
 
 ---
 
 ## 👥 Pengelola Organisasi
 
-Organisasi ini dikelola secara kolektif oleh:
+Organisasi ini dikelola secara kolektif oleh pengurus yang dipilih dari anggota Rombel 3.
 
 | Peran | Tanggung Jawab |
 |-------|----------------|
@@ -196,14 +205,14 @@ Organisasi ini dikelola secara kolektif oleh:
 
 ## 📜 Code of Conduct
 
-Demi menjaga ekosistem yang sehat dan suportif, semua anggota wajib:
+Demi menjaga ekosistem yang sehat dan suportif, semua anggota wajib mematuhi hal berikut:
 
-- ✅ Berkomunikasi dengan **sopan dan konstruktif**.
-- ✅ Menghargai perbedaan pendapat dan tingkat kemampuan.
-- ✅ Memberikan **credit** kepada kontributor asli.
-- ✅ Melaporkan masalah melalui **issue**, bukan melalui gosip.
-- ❌ Dilarang plagiarisme — baik kode maupun dokumen akademik.
-- ❌ Dilarang menyebarkan konten menyinggung di dalam repositori manapun.
+* ✅ Berkomunikasi dengan **sopan dan konstruktif** dalam setiap interaksi.
+* ✅ Menghargai perbedaan pendapat dan tingkat kemampuan antar anggota.
+* ✅ Memberikan **credit** kepada kontributor asli tanpa terkecuali.
+* ✅ Melaporkan masalah melalui **issue**, bukan melalui jalur informal.
+* ❌ Dilarang melakukan plagiarisme — baik pada kode maupun dokumen akademik.
+* ❌ Dilarang menyebarkan konten yang menyinggung di dalam repositori manapun.
 
 ---
 
